@@ -1,0 +1,159 @@
+
+.firstsection{
+    width: 100%;
+    height: 50vw;
+    
+    background-image: url("parallax2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+}
+
+.address{
+    font-size: 45px;
+    text-align: center;
+    letter-spacing: 5px;
+    
+}
+
+.addressdiv{
+
+    padding-top: 35%;
+    text-align: center;
+}
+
+.imj{
+padding-right: 10px;
+    
+}
+
+
+.divo{
+
+
+padding:20px;
+
+
+}
+
+.header{
+
+   
+    padding-top: 50px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+
+.bck{
+
+
+    background-color: #660066;
+    
+}
+
+.bck1{
+
+    background-color: white;
+}
+.button{
+
+    width: 200px;
+    height: 75px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    
+
+}
+
+.button:hover{
+    opacity: 0.7;
+
+}
+
+
+.alig{
+
+    text-align: center;
+    align-items: center;
+}
+.seminar{
+    background-color: #660066;
+}
+.seminar-img{
+    padding:20px;
+}
+.footer{
+    padding: 64px 0px 0px 0px;
+    background-color: #660066;
+}
+.foot{
+    text-align: center;
+    background-color: #777777;
+    width: 100%;
+    padding: 64px 0px;
+}
+.foot:hover{
+    background-color: black;
+}
+.foot:hover .fa-arrow-up{
+    color: black;
+}
+.foot:hover .btn2{
+    color: black;
+}
+.fa-arrow-up::before{
+    margin: 0px 16px 0px 0px;
+}
+.btn2{
+    padding: 8px 16px;
+    color: #777777;
+    background-color: white;
+    border: none;
+}
+.btn2:hover{
+    background-color: lightgray;
+}
+button{
+    cursor: pointer;
+}
+.awesomee{
+    color: white;
+    margin: 16px 0px;
+    padding: 8px;
+}
+.fa-facebook-square:hover{
+    color: #777777;
+    cursor: pointer;
+}
+.fa-instagram:hover{
+    color: #777777;
+    cursor: pointer;
+}
+@media screen and (max-width:900px){
+    
+
+}
+
+
+    
+@media(max-width:700px)
+{
+ 
+    .add{
+
+        padding-top: 100px;
+        /*it could work at this condition only*/
+    }
+  
+
+  
+}

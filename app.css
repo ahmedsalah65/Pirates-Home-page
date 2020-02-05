@@ -51,6 +51,7 @@ padding:20px;
 
 
     background-color: #660066;
+    padding-bottom:  20px;
     
 }
 
@@ -86,14 +87,14 @@ padding:20px;
     align-items: center;
 }
 .seminar{
-    background-color: #660066;
+    background-color:white;
 }
 .seminar-img{
     padding:20px;
 }
 .footer{
     padding: 64px 0px 0px 0px;
-    background-color: #660066;
+    background-color: white;
 }
 .foot{
     text-align: center;
